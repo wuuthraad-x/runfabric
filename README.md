@@ -1,7 +1,7 @@
 -----
 #Predictive maintenance repo
 
---> The repo contains the code used for the solution, a detailed document can be found inside the "Documents" folder
+--> The repo contains the code used for the solution, a detailed document predictive maintenance.pdf
 
 Problem we are addressing :
 
